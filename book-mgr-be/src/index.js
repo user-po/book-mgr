@@ -24,3 +24,5 @@ app.use(async (ctx) => {
 app.listen(3000, () => {
   console.log("启动成功");
 });
+
+console.log(1231413);
